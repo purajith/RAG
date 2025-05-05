@@ -55,10 +55,6 @@ Retrieves from multiple types of data: text, image, audio, etc.
 
 
 
-Great question!
-
-Both **BM25** and **Fuzzy Search** support **partial matching**, but they are designed for **different types of partiality**. Here's a clear comparison to help you choose the best one for your use case:
-
 ---
 
 ### 🔍 1. **BM25** – *Semantic or Token-Level Partial Match*
@@ -106,4 +102,3 @@ Both **BM25** and **Fuzzy Search** support **partial matching**, but they are de
 
 **Use Fuzzy Search** only if you're trying to correct user **typos** or **misspellings**.
 
-Would you like an example showing how BM25 and fuzzy behave differently for a query?
